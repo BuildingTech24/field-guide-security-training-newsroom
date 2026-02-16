@@ -343,6 +343,13 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 **Published:** updated regularly<br />
 **Added:** June 2017<br />
 
+**[Proton Drive: Secure cloud storage](https://proton.me/drive)**<br />
+[https://proton.me/drive](https://proton.me/drive)<br />
+*Various*<br />
+Proton Drive is an ultra-secure cloud storage platform for protecting users' files and documents. Used by journalists, activists, and similar globally.<br />
+**Published:** updated regularly<br />
+**Added:** Feb 2026<br />
+
 ### EVENTS<br />
 
 **[RightsCon](https://www.rightscon.org/)**<br />
